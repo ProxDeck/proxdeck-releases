@@ -1,0 +1,19 @@
+README.md
+  s_0bbab111e36e98::t_1895d512de24f9 1-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "433d8a3c160efd6b9c1969efeaa0953122956001",
+  "prompts": {},
+  "sessions": {
+    "s_0bbab111e36e98": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e45b3ec09ffezTgNFWvocRgrou",
+        "model": "unknown"
+      },
+      "human_author": "Gavvys <kurtprincip@gmail.com>"
+    }
+  }
+}
